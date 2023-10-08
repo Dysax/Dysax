@@ -1,5 +1,8 @@
-<br />
-<br />
+<div align="auto">
+   <h1>Hi there, I'm <span style="color:purple">Luke</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8C55D2&width=435&lines=Freelance+Developer;Indie+Maker;Dungeon+Master)](https://git.io/typing-svg)
+</div>
 
 
 I'm a freelance developer and indie maker currently studying Computer Science. 
@@ -27,4 +30,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+typing thing
+https://readme-typing-svg.demolab.com/demo/
 -->
