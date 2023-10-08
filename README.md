@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dysax)](https://github.com/dysax/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dysax&layout=donut)](https://github.com/dysax/github-readme-stats)
 <!--
 **Dysax/Dysax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
