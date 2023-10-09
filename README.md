@@ -2,8 +2,6 @@
    <h1>Hi there, I'm Luke<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8847F7&vCenter=true&width=435&lines=Software+Developer;Freelancer;Dungeon+Master;Data+Analyst;Indie+Maker)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mona+Sans&weight=600&size=24&pause=1000&color=3070B3&width=435&lines=Software+Developer;Freelancer;Dungeon+Master;Data+Analyst;Indie+Maker;Midlane+main)](https://git.io/typing-svg)
 </div>
 
 
