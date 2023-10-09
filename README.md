@@ -23,6 +23,10 @@ I'm a freelance developer and indie maker currently studying Computer Science.
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dysax&layout=donut)](https://github.com/dysax/github-readme-stats)
+
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 </div>
 <!--
 **Dysax/Dysax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,6 +41,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🎮
 
 
 typing thing
