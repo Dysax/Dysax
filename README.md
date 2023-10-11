@@ -37,11 +37,12 @@ I'm a freelance developer and indie maker currently studying Computer Science.
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dysax&theme=dark&border=4B216D&fire=A958EB&ring=4B216D&sideLabels=BB6AEB&currStreakLabel=A958EB)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dysax&layout=donut)](https://github.com/dysax/github-readme-stats)
-
 </div>
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dysax&layout=donut)](https://github.com/dysax/github-readme-stats)
+
+
+
 **Dysax/Dysax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
