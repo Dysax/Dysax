@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Luke 
+<h1>Hi there, I'm Luke </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8847F7&center=true&vCenter=true&random=false&width=600&lines=Software+Developer;Freelancer;Dungeon+Master;Data+Analyst;Indie+Maker)](https://git.io/typing-svg)
 </div>
