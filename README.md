@@ -26,7 +26,6 @@ I'm a freelance developer and indie maker currently studying Computer Science.
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
 
 
-
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 
@@ -38,34 +37,4 @@ I'm a freelance developer and indie maker currently studying Computer Science.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dysax&theme=dark&border=4B216D&fire=A958EB&ring=4B216D&sideLabels=BB6AEB&currStreakLabel=A958EB)](https://git.io/streak-stats)
 </div>
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dysax&layout=donut)](https://github.com/dysax/github-readme-stats)
 
-
-
-**Dysax/Dysax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-randomupdate
- ...
- ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-- 🎮
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="Csharp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Hubot+Sans&weight=600&size=24&pause=1000&color=4078C0&width=435&lines=Software+Developer;Freelancer;Dungeon+Master;Data+Analyst;Indie+Maker;Midlane+main)](https://git.io/typing-svg)
-
-typing thing
-https://readme-typing-svg.demolab.com/demo/
--->
