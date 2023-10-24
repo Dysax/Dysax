@@ -11,8 +11,8 @@
 
 I'm a freelance developer and indie maker currently studying Computer Science.
 
-🔭 I’m currently working on a portfolio site <br />
-🌱 I’m currently learning JavaScript
+🔭 I’m currently working on 3d Models with OpenGL <br />
+🌱 I’m currently learning UI/UX Design & Development, 3d Graphics and Vizualization 
 
 </div>
 <div align="center">
