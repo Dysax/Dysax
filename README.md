@@ -30,11 +30,6 @@ I'm a freelance developer and indie maker currently studying Computer Science.
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 
 
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-<a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-<a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="Premiere" width="40" height="40"/>
-
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dysax&theme=dark&border=4B216D&fire=A958EB&ring=4B216D&sideLabels=BB6AEB&currStreakLabel=A958EB)](https://git.io/streak-stats)
 </div>
 
