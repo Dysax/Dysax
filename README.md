@@ -11,12 +11,12 @@
 
 I'm a freelance developer and indie maker currently studying Computer Science.
 
-🔭 I’m currently working on Android development <br />
-🌱 I’m currently learning MongoDB and mobile dev  <br />
-
+🔭 I’m currently working on Android development <br>
+🌱 I’m currently learning MongoDB and mobile dev  <br>
+<br>
 </div>
 <div align="center">
-<h2>Languages and Tools</h2>
+<h3>Languages and Tools</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -32,11 +32,11 @@ I'm a freelance developer and indie maker currently studying Computer Science.
 <br>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-</a>
-
-
-
-
+</a></div>
+<br>
+<br>
+<div>
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dysax&theme=dark&border=4B216D&fire=A958EB&ring=4B216D&sideLabels=BB6AEB&currStreakLabel=A958EB)](https://git.io/streak-stats)
 </div>
 
