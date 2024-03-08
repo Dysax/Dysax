@@ -11,8 +11,8 @@
 
 I'm a freelance developer and indie maker currently studying Computer Science.
 
-🔭 I’m currently working on Android development <br>
-🌱 I’m currently learning MongoDB and mobile dev  <br>
+🔭 I’m currently working on nothing <br>
+🌱 I’m currently learning C for embedded systems and machine learning with python  <br>
 <br>
 </div>
 <div align="center">
