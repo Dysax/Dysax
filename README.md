@@ -12,7 +12,7 @@
 I'm a freelance developer and indie maker currently studying Computer Science.
 
 🔭 I’m currently working on nothing <br>
-🌱 I’m currently learning C for embedded systems and machine learning with python  <br>
+🌱 I’m currently learning C for embedded systems and machine learning with Python  <br>
 <br>
 </div>
 <div align="center">
