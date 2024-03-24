@@ -30,10 +30,6 @@ I'm a freelance developer and indie maker currently studying Computer Science.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
 </a>
 <br>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/>
-</a></div>
-<br>
 <br>
 <div>
   
