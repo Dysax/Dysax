@@ -12,7 +12,7 @@
 I'm a freelance developer and indie maker currently studying Computer Science.
 
 🔭 I’m currently working on a freelance project <br>
-🌱 I’m currently secure coding in c++ and Golang <br>
+🌱 I’m currently learning secure coding in c++ and Golang <br>
 <br>
 </div>
 <div align="center">
