@@ -34,6 +34,6 @@ I'm a freelance developer and indie maker currently studying Computer Science.
 <br>
 <div>
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dysax&theme=dark&border=4B216D&fire=A958EB&ring=4B216D&sideLabels=BB6AEB&currStreakLabel=A958EB)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dysax&theme=tokyonight&border_radius=45&fire=8217C9&ring=411F5B&background=111111&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideNums=EBEBEB&sideLabels=EBEBEB&border=7839A8&dates=A51DFF&hide_total_contributions=true)](https://git.io/streak-stats)
 </div>
 
