@@ -15,14 +15,10 @@ I'm a freelance developer and indie maker currently studying Computer Science.
 🌱 I’m currently learning secure coding in c++ and Web Development with the MEAN stack <br>
 <br>
 
-<a href="https://htmx.ceo/" target="_blank" rel="noreferrer">CEO</a>
-of
-<a href="https://htmx.org/" target="_blank" rel="noreferrer">HTMX</a>
-
 
 </div>
 <div align="center">
-<h3>Languages and Tools</h3>
+<!-- <h3>Languages and Tools</h3> -->
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Golang" width="40" height="40"/>
   <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -36,7 +32,10 @@ of
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <br>
-
+<br>
+<a href="https://htmx.ceo/" target="_blank" rel="noreferrer">CEO</a>
+of
+<a href="https://htmx.org/" target="_blank" rel="noreferrer">HTMX</a>
 </a>
 <br>
 <br>
