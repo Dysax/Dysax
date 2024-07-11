@@ -33,9 +33,7 @@ I'm a freelance developer and indie maker currently studying Computer Science.
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <br>
 <br>
-<a href="https://htmx.ceo/" target="_blank" rel="noreferrer">CEO</a>
-of
-<a href="https://htmx.org/" target="_blank" rel="noreferrer">HTMX</a>
+
 </a>
 <br>
 <br>
