@@ -11,8 +11,8 @@
 
 I'm a freelance developer and indie maker currently studying Computer Science.
 
-🔭 I’m currently working on a freelance project <br>
-🌱 I’m currently learning secure coding in c++ and Web Development with the MEAN stack <br>
+🔭 I’m currently working on a game. <br>
+🌱 I’m currently learning Assembly and software reverse engineering.  <br>
 <br>
 
 
