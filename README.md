@@ -12,7 +12,7 @@
 I'm a freelance developer and indie maker currently studying Computer Science.
 
 🔭 I’m currently working on a game. <br>
-🌱 I’m currently learning Assembly and software reverse engineering.  <br>
+🌱 I’m currently learning development with AWS <br>
 <br>
 
 
