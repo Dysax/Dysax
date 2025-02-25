@@ -9,10 +9,10 @@
 <div align="center">
 <h3>About me</h3>
 
-I'm a freelance developer and indie maker currently studying Computer Science.
+I'm a freelance developer and indie game dev.
 
 🔭 I’m currently working on a game. <br>
-🌱 I’m currently learning development with AWS <br>
+🌱 I’m currently learning development with godot <br>
 <br>
 
 
