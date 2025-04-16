@@ -37,8 +37,5 @@ I'm a freelance developer and indie game dev.
 </a>
 <br>
 <br>
-<div>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Dysax&theme=tokyonight&border_radius=45&fire=8217C9&ring=411F5B&background=111111&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideNums=EBEBEB&sideLabels=EBEBEB&border=7839A8&dates=A51DFF&hide_total_contributions=true)](https://git.io/streak-stats)
-</div>
+
 
