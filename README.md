@@ -12,7 +12,6 @@
 I'm a freelance developer and indie game dev.
 
 🔭 I’m currently working on a game. <br>
-🌱 I’m currently learning development with godot <br>
 <br>
 
 
