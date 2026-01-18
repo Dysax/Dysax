@@ -39,4 +39,4 @@ I'm a freelance developer and indie game dev.
 <br>
 <br>
 
-
+[![Available for Work](https://available.dev/api/badge/Dysax)](https://available.dev/Dysax)
