@@ -9,7 +9,7 @@
 <div align="center">
 <h3>About me</h3>
 
-I'm a freelance developer and indie game dev.
+I'm a Software and Indie Game Developer.
 
 🔭 I’m currently working on a game. <br>
 <br>
