@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Dysax 👋
+# Hey, I'm Luke, I also go by Dysax 👋
 
 **Software Developer** · Language Enthusiast · Game Maker
 
