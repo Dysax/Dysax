@@ -4,9 +4,8 @@
 <div align="center">
 <h3>About me</h3>
 
-I'm a Software and Indie Game Developer.
-
-🔭 I’m currently working on a game. <br>
+I'm a Software Developer focused on learning more about systems, programming languages, and developer tools.
+I also make games.
 <br>
 
 
