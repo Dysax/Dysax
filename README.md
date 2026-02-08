@@ -5,6 +5,7 @@
 <h3>About me</h3>
 
 I'm a Software Developer focused on learning more about systems, programming languages, and developer tools.
+
 I also make games.
 <br>
 
