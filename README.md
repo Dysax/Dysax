@@ -9,7 +9,7 @@ I also make games.
 
 ---
 
-### my favorite languages
+### languages I like
 
 <a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Go" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-line.svg" alt="C" width="48" height="48"/></a>&nbsp;&nbsp;
@@ -19,7 +19,7 @@ I also make games.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="Lua" width="48" height="48"/></a>
 
-### tools & technologies
+### tools & technologies I like
 
 <a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" alt="Neovim" width="48" height="48"/></a>&nbsp;&nbsp;
 <a href="https://godotengine.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="Godot" width="48" height="48"/></a>&nbsp;&nbsp;
