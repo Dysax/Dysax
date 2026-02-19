@@ -4,7 +4,7 @@
 
 **Software Developer** · Language Enthusiast · Game Maker
 
-I'm driven by curiosity about systems, programming languages, and developer tools.
+I'm curious about systems, programming languages, and developer tools.
 I also make games.
 
 ---
